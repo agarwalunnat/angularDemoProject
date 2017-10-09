@@ -93,6 +93,10 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+@angular/platform-browser@4.4.4 MIT
+
+@angular/common@4.4.4 MIT
+
 css-loader@0.28.7 MIT
 Copyright JS Foundation and other contributors
 
